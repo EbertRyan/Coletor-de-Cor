@@ -1,7 +1,7 @@
 ## Projeto: Coletor de Cor 
 
 
-<p>Acesse o projeto <a href="https://ebertryan.github.io/Gerador-de-Senhas/" target="_blank">clicando aqui</a></p>
+<p>Acesse o projeto <a href="https://ebertryan.github.io/Coletor-de-Cor/" target="_blank">clicando aqui</a></p>
 
 ## 🎯 Sobre
 
